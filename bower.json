@@ -1,0 +1,25 @@
+{
+  "name": "angular-moment-fromNow",
+  "main": "angular-moment-fromnow.js",
+  "version": "0.1.0",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "description": "this component was published infinite days ago",
+  "keywords": [
+    "angular",
+    "moment"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/L42y/angular-moment-fromnow",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.0"
+  }
+}
